@@ -1,6 +1,6 @@
 ### Hey there! 
 
-Thanks for visiting my github profile:
+Thanks for visiting my GitHub profile:
 
 - 🤖 I’m currently learning about data science, AI/ML, and software engineering
 - 🐠 Right now I'm working on detecting crown-of-thorns starfish in the Great Barrier Reef
